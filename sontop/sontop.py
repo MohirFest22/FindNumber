@@ -1,15 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Aug 17 22:34:11 2023
-
-@author: User
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  9 23:04:28 2023
-
-@author: User
+19-08-2023
+Mavzu: Kompyuter o'ylagan sonnni topish dasturi
+Muallif: Arslonov Sunnat
 """
 import random
 from tkinter import *
